@@ -1,0 +1,22 @@
+# Bytecode files
+__pycache__/
+
+# Environment variables
+.env
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
